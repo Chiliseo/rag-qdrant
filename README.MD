@@ -3,8 +3,8 @@
 requirements
 
 - ollama
-- ollama run mxbai-embed-large
-- ollama run gemma3:1b
+- ollama pull mxbai-embed-large
+- ollama pull gemma3:1b
 
 setup docker qdrant local
 ```bash
