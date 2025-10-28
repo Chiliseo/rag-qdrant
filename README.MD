@@ -1,5 +1,11 @@
 # RAG
 
+requirements
+
+- ollama
+- ollama run mxbai-embed-large
+- ollama run gemma3:1b
+
 setup docker qdrant local
 ```bash
 docker run -p 6333:6333 -p 6334:6334 \
